@@ -1,0 +1,15 @@
+---
+route: /
+name: LoginForm
+---
+
+import {Playground} from 'docz';
+import LoginForm from '.';
+
+## Usage
+
+<Playground>
+  <LoginForm onSubmit={values => {
+    console.log(values);
+  }} />
+</Playground>
