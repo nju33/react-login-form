@@ -25,7 +25,6 @@ export const Default: React.SFC<LoginFormDefaultProps> = ({onSubmit}) => {
       onSubmit={onSubmit}
     >
       {(formikProps: FormikProps<any>) => {
-        console.log(formikProps);
         const invalidEmail = Boolean(
           formikProps.errors.email && formikProps.touched.email
         );
