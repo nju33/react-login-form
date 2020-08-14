@@ -741,10 +741,10 @@
     reflect-metadata "^0.1.12"
     tslib "^1.8.1"
 
-"@geekcojp/prettier-config@0.2.2":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@geekcojp/prettier-config/-/prettier-config-0.2.2.tgz#a24e73feb98909ac0af16b12c24acb7d4dce1db4"
-  integrity sha1-ok5z/rmJCawK8WsSwkrLfU3OHbQ=
+"@geekcojp/prettier-config@0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@geekcojp/prettier-config/-/prettier-config-0.3.0.tgz#5bcea8d8fdbe4536e8aeda5e26e4eced63761d9e"
+  integrity sha512-2rW+c7ELXf0XmaPaWnL2Pi58D8lYznqtKITPUg3E/ux0eFxIyE9nKMtKaIKE1k8FUU+yJD6iS2JubW0vqz2Tig==
 
 "@geekcojp/tslint-config@0.2.1":
   version "0.2.1"
