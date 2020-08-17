@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 export const Button = styled.button`
   border: none;
@@ -8,10 +8,10 @@ export const Button = styled.button`
   margin-left: auto;
   cursor: pointer;
   border-radius: 2px;
-  transition: .2s;
+  transition: 0.2s;
 
   &[disabled] {
     cursor: default;
     background: #656765;
   }
-`;
+`

@@ -1,6 +1,6 @@
 {
   "include": [".*.js", "*.js", "src"],
-  "exclude": [],
+  "exclude": ["*.test.ts", "*.test.tsx", "__mocks__"],
   "compilerOptions": {
     /* https://www.typescriptlang.org/docs/handbook/tsconfig-json.html */
     "target": "es6",
