@@ -1469,10 +1469,10 @@
   dependencies:
     "@types/prop-types" "*"
 
-"@types/styled-components@3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-3.0.2.tgz#274133bfafaca17f28707b667858bce197ae3b84"
-  integrity sha512-nG9swaAqmSrUDXyjpE0NxabjVYAGlmtqWXlCpRWRIZBMbTkdcyQULC+ElvTfghTc+1ANJjn6DCyUQirF5a2OOg==
+"@types/styled-components@3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-3.0.3.tgz#567c2fe44c5e76e4659a29b3b095ebc3ddcb42d6"
+  integrity sha512-G+OKTURLC+zTvfpRC5fPYSNUIbE5RHBjSCdWkUCOm2wHIpFlN9xmA2vLd8SO0LPQoaizCOY+gDZJtz29QY5MqQ==
   dependencies:
     "@types/node" "*"
     "@types/react" "*"
