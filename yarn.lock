@@ -1475,10 +1475,10 @@
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.1.tgz#18845205e86ff0038517aab7a18a62a6b9f71275"
   integrity sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==
 
-"@types/styled-components@3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-3.0.3.tgz#567c2fe44c5e76e4659a29b3b095ebc3ddcb42d6"
-  integrity sha512-G+OKTURLC+zTvfpRC5fPYSNUIbE5RHBjSCdWkUCOm2wHIpFlN9xmA2vLd8SO0LPQoaizCOY+gDZJtz29QY5MqQ==
+"@types/styled-components@3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-3.0.4.tgz#134fa867cbc5c0d34e86263dd7954e37cc95d980"
+  integrity sha512-k/kHqkGLflLsHR1SLGaHT12li/opJ7JLD6Z/gJ5/q6sfVuz7vpKzoeyQS6jjLZTA7JaUoePBwZf72IRntRWjrA==
   dependencies:
     "@types/node" "*"
     "@types/react" "*"
