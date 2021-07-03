@@ -38,7 +38,7 @@
     "@geekcojp/tslint-config": "0.2.1",
     "@types/react": "16.14.10",
     "@types/react-dom": "16.9.13",
-    "@types/styled-components": "3.0.3",
+    "@types/styled-components": "3.0.4",
     "@types/yup": "0.29.12",
     "docz": "0.13.7",
     "prettier": "1.19.1",
