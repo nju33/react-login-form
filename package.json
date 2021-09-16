@@ -41,7 +41,7 @@
     "@types/styled-components": "3.0.4",
     "@types/yup": "0.29.13",
     "docz": "0.13.7",
-    "prettier": "1.19.1",
+    "prettier": "2.4.1",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "renovate-config-nju33": "0.0.1",
